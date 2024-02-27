@@ -1,0 +1,336 @@
+{
+  "Projects": [
+    {
+      "id": "uuidA",
+      "projectName": "JSVX",
+      "projectdescription": "JSVXプロジェクトの詳細"
+    },
+    {
+      "id": "uuidB",
+      "projectName": "SDGS",
+      "projectdescription": "SDGSプロジェクトの詳細"
+    },
+    {
+      "id": "uuidC",
+      "projectName": "CATS",
+      "projectdescription": "CATSプロジェクトの詳細"
+    },
+    {
+      "id": "uuidD",
+      "projectName": "DOGS",
+      "projectdescription": "DOGSプロジェクトの詳細"
+    }
+  ],
+  "V5data": [
+    {
+      "id": "805d217c-ccd2-4c4b-b778-e39a1fe984f4",
+      "name": "JSVX MOTOR",
+      "category": "M",
+      "partnum": "JSVX-M01A-N",
+      "type": "CATProduct",
+      "datalocation": "/icon.png",
+      "regtime": "38/01/19 03:14",
+      "project": "JSVX"
+    },
+    {
+      "id": "1f335327-99ae-4a78-a87f-5620b02f2243",
+      "name": "JSVX OUTER PANEL",
+      "category": "P",
+      "partnum": "JSVX-P08A-R",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "38/01/19 03:14",
+      "project": "JSVX"
+    },
+    {
+      "id": "e74914b7-096a-471b-83ba-361d1692c28f",
+      "name": "JSVX SPEAKER",
+      "category": "E",
+      "partnum": "JSVX-E08A-L",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "38/01/19 03:14",
+      "project": "JSVX"
+    },
+    {
+      "id": "66abf9bb-a30b-4e17-bd05-2995d3dc7eca",
+      "name": "JSVX SUSPENSION",
+      "category": "M",
+      "partnum": "JSVX-M09A-R",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "16/11/23 17:20",
+      "project": "JSVX"
+    },
+    {
+      "id": "7cd48fea-4e39-4356-b1cc-9d59d75c316c",
+      "name": "JSVX FRONT GLASS",
+      "category": "P",
+      "partnum": "JSVX-P17A-N",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "16/11/23 17:22",
+      "project": "JSVX"
+    },
+    {
+      "id": "f85bb5cc-904b-44f9-9bdb-00eae59452c2",
+      "name": "JSVX STEERING WHEEL",
+      "category": "F",
+      "partnum": "JSVX-F05A-R",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "16/11/23 17:23",
+      "project": "JSVX"
+    },
+    {
+      "id": "1f335427-99ae-4a78-a87f-5620b02f2243",
+      "name": "JSVX OUTER PANEL",
+      "category": "P",
+      "partnum": "JSVX-P08C-R",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "38/01/19 03:14",
+      "project": "JSVX"
+    },
+    {
+      "id": "1f335327-99ae-4a78-a82f-5620b02f2243",
+      "name": "JSVX OUTER PANEL",
+      "category": "P",
+      "partnum": "JSVX-P08B-R",
+      "type": "CATProduct",
+      "datalocation": "./",
+      "regtime": "38/01/19 03:14",
+      "project": "JSVX"
+    },
+    {
+      "id": "9dc7dec3-b234-4f22-840f-d34f76d12f73",
+      "name": "SDGS SIDE FRAME A",
+      "category": "P",
+      "partnum": "SDGS-P03A-N",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "30/11/23 13:46",
+      "project": "SDGS"
+    },
+    {
+      "id": "f1de7e27-a464-437b-9deb-0fd36bdefb31",
+      "name": "CATS DAMPER HOUSING A",
+      "category": "P",
+      "partnum": "CATS-P02A-L",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "30/11/23 17:30",
+      "project": "CATS"
+    },
+    {
+      "id": "62c11a67-e447-40d6-acf1-920c0d66a446",
+      "name": "JSVX FLOOR PANEL A",
+      "category": "P",
+      "partnum": "JSVX-P04A-N",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "05/12/23 16:00",
+      "project": "JSVX"
+    },
+    {
+      "id": "437cd57f-95a5-4b31-b27c-c7d646c0ab5f",
+      "name": "JSVX FRONT QUARTER GLASS A",
+      "category": "P",
+      "partnum": "JSVX-P19A-R",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "05/12/23 16:36",
+      "project": "JSVX"
+    },
+    {
+      "id": "5b222dba-9cd3-43cc-8d3c-87179433181a",
+      "name": "JSVX DAMPER HOUSING A",
+      "category": "P",
+      "partnum": "JSVX-P02A-L",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "08/01/24 15:38",
+      "project": "JSVX"
+    },
+    {
+      "id": "1a650eb5-dd8d-41b7-87e7-e44f62279486",
+      "name": "JSVX MOTOR MOUNT A",
+      "category": "M",
+      "partnum": "JSVX-M02A-N",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "08/01/24 16:37",
+      "project": "JSVX"
+    },
+    {
+      "id": "8fa4fdb1-c7ff-4efa-973b-b0745661bd5a",
+      "name": "JSVX DASHBOARD A",
+      "category": "F",
+      "partnum": "JSVX-F02A-N",
+      "type": "---",
+      "datalocation": "---",
+      "regtime": "08/01/24 16:51",
+      "project": "JSVX"
+    },
+    {
+      "id": "52830406-40d9-4f88-aaeb-1c9ed2fd20b2",
+      "name": "JSVX MOTOR MOUNT B",
+      "category": "M",
+      "partnum": "JSVX-M02B-N",
+      "type": "pptx",
+      "datalocation": "/models/JSVX-M02B-N.pptx",
+      "regtime": "08/01/24 17:53",
+      "project": "JSVX"
+    },
+    {
+      "id": "792f8a16-5fdb-4ce1-b1c2-c3df3f5d1782",
+      "name": "SDGS TIRE A",
+      "category": "M",
+      "partnum": "SDGS-M04A-L",
+      "type": "pptx",
+      "datalocation": "/models/SDGS-M04A-L.pptx",
+      "regtime": "08/01/24 17:54",
+      "project": "SDGS"
+    },
+    {
+      "id": "ee4c91b9-9f64-42ae-a4ff-9ebcdf8748b0",
+      "name": "SDGS TIRE A",
+      "category": "M",
+      "partnum": "SDGS-M04A-L",
+      "type": "pptx",
+      "datalocation": "/models/SDGS-M04A-L.pptx",
+      "regtime": "08/01/24 17:54",
+      "project": "SDGS"
+    },
+    {
+      "id": "a6bd70f1-53c5-438f-8276-ea0bd7483264",
+      "name": "SDGS TIRE A",
+      "category": "M",
+      "partnum": "SDGS-M04A-L",
+      "type": "pptx",
+      "datalocation": "/models/SDGS-M04A-L.pptx",
+      "regtime": "08/01/24 17:54",
+      "project": "SDGS"
+    },
+    {
+      "id": "6d0c8b1a-f39e-4c14-94c7-e728dff73b41",
+      "name": "SDGS TIRE A",
+      "category": "M",
+      "partnum": "SDGS-M04A-L",
+      "type": "pptx",
+      "datalocation": "/models/SDGS-M04A-L.pptx",
+      "regtime": "08/01/24 17:54",
+      "project": "SDGS"
+    },
+    {
+      "id": "929bf6f9-b23c-413d-8db8-547864a7772b",
+      "name": "SDGS BULKHEAD A",
+      "category": "P",
+      "partnum": "SDGS-P01A-N",
+      "type": "pptx",
+      "datalocation": "/models/SDGS-P01A-N.pptx",
+      "regtime": "08/01/24 17:57",
+      "project": "SDGS"
+    },
+    {
+      "id": "e03cdb30-1514-4b87-9ed9-1492f6065ef2",
+      "name": "JSVX BULKHEAD A",
+      "category": "P",
+      "partnum": "JSVX-P01A-N",
+      "type": "CATProduct",
+      "datalocation": "/models/JSVX-P01A-N.CATProduct",
+      "regtime": "22/01/24 13:10",
+      "project": "JSVX"
+    },
+    {
+      "id": "7d6a888a-af64-4a44-a407-989f59ff7e34",
+      "name": "JSVX BRAKE DISK A",
+      "category": "M",
+      "partnum": "JSVX-M10A-R",
+      "type": "pptx",
+      "datalocation": "/models/JSVX-M10A-R.pptx",
+      "regtime": "22/01/24 16:36",
+      "project": "JSVX"
+    },
+    {
+      "id": "112a160f-53de-4c41-9e84-62b204f7260c",
+      "name": "JSVX MOTOR B",
+      "category": "M",
+      "partnum": "JSVX-M01B-N",
+      "type": "csv",
+      "datalocation": "/models/JSVX-M01B-N.csv",
+      "regtime": "22/01/24 16:47",
+      "project": "JSVX"
+    },
+    {
+      "id": "22a4bfc1-9c0e-40ab-82c9-ebdd330c7c15",
+      "name": "JSVX MOTOR B",
+      "category": "M",
+      "partnum": "JSVX-M01B-N",
+      "type": "csv",
+      "datalocation": "/models/JSVX-M01B-N.csv",
+      "regtime": "22/01/24 16:47",
+      "project": "JSVX"
+    },
+    {
+      "id": "7a1b4349-277f-44ba-9ad2-4f16ca09532d",
+      "name": "SDGS MOTOR MOUNT A",
+      "category": "M",
+      "partnum": "SDGS-M02A-N",
+      "type": "pptx",
+      "datalocation": "/models/SDGS-M02A-N.pptx",
+      "regtime": "29/01/24 13:23",
+      "project": "SDGS"
+    },
+    {
+      "id": "0229d723-ab19-4965-8991-1a2e4735240c",
+      "name": "JSVX TIRE A",
+      "category": "M",
+      "partnum": "JSVX-M04A-R",
+      "type": "pptx",
+      "datalocation": "/models/JSVX-M04A-R.pptx",
+      "regtime": "29/01/24 13:24",
+      "project": "JSVX"
+    },
+    {
+      "id": "4ffc1b2d-6207-468e-88dc-73ab2a6325bd",
+      "name": "JSVX BULKHEAD B",
+      "category": "P",
+      "partnum": "JSVX-P01B-N",
+      "type": "pptx",
+      "datalocation": "/models/JSVX-P01B-N.pptx",
+      "regtime": "29/01/24 14:18",
+      "project": "JSVX"
+    },
+    {
+      "id": "9945178f-ece6-4f17-9f79-05929a02e96a",
+      "name": "CATS MOTOR A",
+      "category": "M",
+      "partnum": "CATS-M01A-N",
+      "type": "pptx",
+      "datalocation": "/CATS-M01A-N.pptx",
+      "regtime": "29/01/24 14:55",
+      "project": "CATS"
+    },
+    {
+      "id": "1bc0ddbc-793f-4683-9767-8072b1c2d421",
+      "name": "JSVX DAMPER HOUSING B",
+      "category": "P",
+      "partnum": "JSVX-P02B-L",
+      "type": "csv",
+      "datalocation": "/JSVX-P02B-L.csv",
+      "regtime": "29/01/24 15:01",
+      "project": "JSVX"
+    },
+    {
+      "id": "5ca7a46f-78b3-4d55-945b-6f1919d8a23b",
+      "name": "JSVX MOTOR MOUNT C",
+      "category": "M",
+      "partnum": "JSVX-M02C-N",
+      "type": "pptx",
+      "datalocation": "/JSVX-M02C-N.pptx",
+      "regtime": "22/02/24 15:20",
+      "project": "JSVX"
+    }
+  ]
+}
